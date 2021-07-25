@@ -16,5 +16,5 @@ Information regarding temperature and other climatic conditions are fetched by c
 Contains multi-screen functionality for search bar and data display.
 
 
-"# Live-Weather-App" 
+
 "# Live-Weather-App" 
