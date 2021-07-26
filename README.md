@@ -1,6 +1,6 @@
 # live_weather_app
 
-A new Flutter application.
+A new Flutter Live Weather application.
 
 
 Features:-
