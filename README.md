@@ -32,6 +32,7 @@ Handle exceptions in Dart using try/catch/throw.
 
 Lifecycle of Stateful Widgets and override them.
 
+
 Geolocator package to get live location data for both iOS and Android.
 
 TextField Widget to take user input.
@@ -55,3 +56,7 @@ ExpansionPanelList view.
 ✔️ Automatically picks user location (also error handling when location can't be selected!).
 
 ✔️ Error handling: when the internet is not accessible, no location permission from user, G.P.S. not available.
+
+
+![82083583-69909300-9703-11ea-91ec-38179591e3fa](https://user-images.githubusercontent.com/57807735/179198414-b2c35375-dd48-41eb-8091-e98fb571f110.gif)
+
