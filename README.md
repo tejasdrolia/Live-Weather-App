@@ -14,7 +14,7 @@ User's can acquire weather data based on the city name provided by them.
 Contains multi-screen functionality for search bar and data display.
 
 # What is used in this project
-How to use Dart to perform asynchronous tasks.
+Dart to perform asynchronous tasks.
 
 Async and await.
 
