@@ -1,7 +1,7 @@
 # About the App
 
 A new Flutter Live Weather application.
-Features:-
+# Features:-
 
 This application is based on Flutter framework.
 
