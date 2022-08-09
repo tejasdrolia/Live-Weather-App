@@ -51,8 +51,6 @@ ExpansionPanelList view.
 
 ✔️ Weather Data: current temperature, feel like temperature, humidity, pressure, wind, visibility, cloudiness.
 
-✔️ App background based on weather condition and time of a day.
-
 ✔️ Automatically picks user location (also error handling when location can't be selected!).
 
 ✔️ Error handling: when the internet is not accessible, no location permission from user, G.P.S. not available.
